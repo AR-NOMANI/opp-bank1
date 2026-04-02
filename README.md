@@ -271,4 +271,3 @@ if __name__ == "__main__":
     print(user5.generate_report())
 ```
 
-✅ Human style - simple messages, no AI language
